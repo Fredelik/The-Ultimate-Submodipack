@@ -132,7 +132,7 @@ Those mods will greatly change your game experience, but as a result don't work 
 - [Immersive Third Person](https://www.nexusmods.com/subnautica/mods/1978)
 - [Rainbow Vehicles](https://www.nexusmods.com/subnautica/mods/1506?tab=files)
 - [Mirror Mod](https://www.nexusmods.com/subnautica/mods/1334?tab=files)
-- [Decorations Mod](https://www.nexusmods.com/subnautica/mods/1522?tab=files) (This is a port to 2.0, to get it working you'll also need the [legacy version](https://www.nexusmods.com/subnautica/mods/102?tab=files))
+- [Decorations Mod](https://www.nexusmods.com/subnautica/mods/102?tab=files)
 - [Keep Calm Kitty Bed](https://www.nexusmods.com/subnautica/mods/2394?tab=files)
 - [VF Flight Module](https://www.nexusmods.com/subnautica/mods/2224?tab=files)
 - [Craftable Terraformer](https://www.nexusmods.com/subnautica/mods/2190?tab=files) (Also requires [this mod](https://github.com/repkins/subnautica-terraforming-mod/wiki/Mod-page))
