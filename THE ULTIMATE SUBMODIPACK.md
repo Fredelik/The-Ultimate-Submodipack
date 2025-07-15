@@ -65,6 +65,8 @@ Those mods will greatly change your game experience, but as a result don't work 
 - [We Are Murderers](https://www.nexusmods.com/subnautica/mods/2416?tab=files)
 - [Subnautica Pets](https://www.nexusmods.com/subnautica/mods/1373?tab=files)
 - [Fighting Reapers](https://www.nexusmods.com/subnautica/mods/2286?tab=files)
+- [Migrate](https://github.com/NyxBaird/Migrate2/releases)
+  
 ## Vehicles and Base
 
 - [Blossom Submarine](https://www.nexusmods.com/subnautica/mods/1977?tab=files)
