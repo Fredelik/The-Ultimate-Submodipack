@@ -63,9 +63,20 @@ Those mods will greatly change your game experience, but as a result don't work 
 - [The Eternal Abyss](https://www.nexusmods.com/subnautica/mods/1765?tab=files)
 - [Remnants of Life](https://www.nexusmods.com/subnautica/mods/1721?tab=files)
 - [We Are Murderers](https://www.nexusmods.com/subnautica/mods/2416?tab=files)
+
+  > Adds new logs with more lore
+
 - [Subnautica Pets](https://www.nexusmods.com/subnautica/mods/1373?tab=files)
+
+  > Have a pet by your side :]
+  
 - [Fighting Reapers](https://www.nexusmods.com/subnautica/mods/2286?tab=files)
+
+  > Reapers will now fight with each other
+
 - [Migrate](https://github.com/NyxBaird/Migrate2/releases)
+  
+  >Simulate migration
   
 ## Vehicles and Base
 
