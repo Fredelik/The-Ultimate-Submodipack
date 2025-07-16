@@ -85,16 +85,13 @@ Those mods will greatly change your game experience, but as a result don't work 
 - [Rotable Ladder](https://www.nexusmods.com/subnautica/mods/2015)
 - [Seamoth Barrel Roll](https://www.nexusmods.com/subnautica/mods/2012?tab=files)
 - [Seal Sub](https://github.com/LeeTwentyThree/SealSub/releases)
-- [Moonpool Rotation](https://www.nexusmods.com/subnautica/mods/2261?tab=files)
-  > Smoother rotation when docking to moonpool
+- [Moonpool Rotation](https://www.nexusmods.com/subnautica/mods/2261?tab=files) > Smoother rotation when docking to moonpool
 - [Seamoth Eject](https://www.nexusmods.com/subnautica/mods/740?tab=files)
 - [Pictures From Database](https://www.nexusmods.com/subnautica/mods/1195?tab=files)
 - [Auto Storage Transfer](https://www.nexusmods.com/subnautica/mods/1979?tab=files)
 - [Sonar Chip](https://www.nexusmods.com/subnautica/mods/1955)
-- [Burst Fins](https://www.nexusmods.com/subnautica/mods/1950?tab=files)
-> A new fin upgrade 
-- [Building Tweaks](https://www.nexusmods.com/subnautica/mods/1121?tab=files)
-  > Allows more freedom when placing base pieces, can solve some issues when deconstructing stuff
+- [Burst Fins](https://www.nexusmods.com/subnautica/mods/1950?tab=files) > A new fin upgrade 
+- [Building Tweaks](https://www.nexusmods.com/subnautica/mods/1121?tab=files) > Allows more freedom when placing base pieces, can solve some issues when deconstructing stuff
   
 ## QOL and Difficulty
 
