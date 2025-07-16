@@ -51,17 +51,53 @@ Those mods will greatly change your game experience, but as a result don't work 
 ## Creatures and Exploration
 
 - [SockFauna](https://www.nexusmods.com/subnautica/mods/2346?tab=files)
+  
+  > New creatures to discover
+
 - [The Silence](https://www.nexusmods.com/subnautica/mods/1455?tab=files)
+
+  > Adds a new leviathan
+
 - [Rising Waters](https://www.nexusmods.com/subnautica/mods/1734?tab=files)
+
+  > Adds a few revamped biomes as well as new creatures
+  
 - [Deeper Waters](https://www.nexusmods.com/subnautica/mods/1750?tab=files)
+
+  > A sequel to Rising Waters with more creatures and biomes
+  
 - [Bloop and Blaza](https://www.nexusmods.com/subnautica/mods/1604?tab=files)
+
+  > Adds two new leviathan
+  
 - [De-Extinction](https://www.nexusmods.com/subnautica/mods/640?tab=files)
+
+  > Adds a bunch of new creatures inspired by un-used concept arts
+  
 - [Return of the Ancients](https://github.com/ArchitectsOfTheUnknown/ReturnOfTheAncientsDemo/blob/main/return-of-the-ancients.md)
+
+  > Adds a **huge** surprise
+  
 - [SockBiomes](https://www.nexusmods.com/subnautica/mods/2361)
+
+  > Biomes to go alongside Sockfauna
+  
 - [Failing Ecosystem](https://www.nexusmods.com/subnautica/mods/1700?tab=files)
+
+  > A Compilation of small new biomes
+
 - [CrashFish Cluster](https://www.nexusmods.com/subnautica/mods/1752?tab=files)
+
+  > A new biome in the void
+  
 - [The Eternal Abyss](https://www.nexusmods.com/subnautica/mods/1765?tab=files)
+
+  > A new mysterious biome
+  
 - [Remnants of Life](https://www.nexusmods.com/subnautica/mods/1721?tab=files)
+
+  > More abandoned bases as well as a new biome
+  
 - [We Are Murderers](https://www.nexusmods.com/subnautica/mods/2416?tab=files)
 
   > Adds new logs with more lore
@@ -76,7 +112,7 @@ Those mods will greatly change your game experience, but as a result don't work 
 
 - [Migrate](https://github.com/NyxBaird/Migrate2/releases)
   
-  >Simulate migration
+  > Simulate migration
   
 ## Vehicles and Base
 
