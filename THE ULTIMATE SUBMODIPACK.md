@@ -129,15 +129,30 @@ Those mods will greatly change your game experience, but as a result don't work 
 - [SleekBase](https://www.nexusmods.com/subnautica/mods/1180)
 - [Unknown LifePod](https://www.nexusmods.com/subnautica/mods/2387)
 - [Cockpit Free Look](https://www.nexusmods.com/subnautica/mods/2026?tab=files)
+
+  > Allows you to freely look around in the seamoth by toggling a key
+  
 - [Rotable Ladder](https://www.nexusmods.com/subnautica/mods/2015)
+
+  > Now you can finally rotate those damn ladders
+  
 - [Seamoth Barrel Roll](https://www.nexusmods.com/subnautica/mods/2012?tab=files)
+
+  > DO A BARREL ROLL!!
+  
 - [Seal Sub](https://github.com/LeeTwentyThree/SealSub/releases)
 - [Moonpool Rotation](https://www.nexusmods.com/subnautica/mods/2261?tab=files)
   
   > Smoother rotation when docking to moonpool
   
 - [Seamoth Eject](https://www.nexusmods.com/subnautica/mods/740?tab=files)
+
+  > Now when leaving the seamoth you will always appear behind it
+  
 - [Pictures From Database](https://www.nexusmods.com/subnautica/mods/1195?tab=files)
+
+  > Use pics from your database in picture frames
+  
 - [Auto Storage Transfer](https://www.nexusmods.com/subnautica/mods/1979?tab=files)
 - [Sonar Chip](https://www.nexusmods.com/subnautica/mods/1955)
 - [Burst Fins](https://www.nexusmods.com/subnautica/mods/1950?tab=files)
