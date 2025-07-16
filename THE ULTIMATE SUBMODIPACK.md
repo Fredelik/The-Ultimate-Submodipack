@@ -133,14 +133,19 @@ Those mods will greatly change your game experience, but as a result don't work 
 - [Seamoth Barrel Roll](https://www.nexusmods.com/subnautica/mods/2012?tab=files)
 - [Seal Sub](https://github.com/LeeTwentyThree/SealSub/releases)
 - [Moonpool Rotation](https://www.nexusmods.com/subnautica/mods/2261?tab=files)
+  
   > Smoother rotation when docking to moonpool
+  
 - [Seamoth Eject](https://www.nexusmods.com/subnautica/mods/740?tab=files)
 - [Pictures From Database](https://www.nexusmods.com/subnautica/mods/1195?tab=files)
 - [Auto Storage Transfer](https://www.nexusmods.com/subnautica/mods/1979?tab=files)
 - [Sonar Chip](https://www.nexusmods.com/subnautica/mods/1955)
 - [Burst Fins](https://www.nexusmods.com/subnautica/mods/1950?tab=files)
-  > A new fin upgrade 
+  
+  > A new fin upgrade
+  
 - [Building Tweaks](https://www.nexusmods.com/subnautica/mods/1121?tab=files)
+  
   > Allows more freedom when placing base pieces, can solve some issues when deconstructing stuff
   
 ## QOL and Difficulty
@@ -178,19 +183,49 @@ Those mods will greatly change your game experience, but as a result don't work 
 ## Just For Fun
 
 - [Cuddlefish Renamer](https://www.nexusmods.com/subnautica/mods/2333?tab=files)
+
+  > Give the little fella a proper name
+  
 - [Desktop Jukebox](https://www.nexusmods.com/subnautica/mods/2322?tab=files)
+
+  > A small jukebox for your base
+  
 - [The Planets - Jukebox Disks](https://www.nexusmods.com/subnautica/mods/2323?tab=files)
+
+  > Adds 5 disks for the jukebox scattered around the planet
+  
 - [Gargantuan Leviathan Statue](https://www.nexusmods.com/subnautica/mods/2205?tab=files)
+
+  > A cute decoration
+  
 - [Lil Gargy Plush](https://www.nexusmods.com/subnautica/mods/1781?tab=files)
+
+  > Another cute decoration
+  
 - [BiggerFish](https://www.nexusmods.com/subnautica/mods/2022?tab=files)
+
+  > Increase the size of creatures by the amount of your choice
+  
 - [Immersive Third Person](https://www.nexusmods.com/subnautica/mods/1978)
 - [Rainbow Vehicles](https://www.nexusmods.com/subnautica/mods/1506?tab=files)
+
+  > Make your submarines fabulous
+  
 - [Mirror Mod](https://www.nexusmods.com/subnautica/mods/1334?tab=files)
+
+  > Enjoy Riley's face in all its glory
+  
 - [Decorations Mod](https://www.nexusmods.com/subnautica/mods/102?tab=files)
 - [Keep Calm Kitty Bed](https://www.nexusmods.com/subnautica/mods/2394?tab=files)
 - [VF Flight Module](https://www.nexusmods.com/subnautica/mods/2224?tab=files)
 - [Craftable Terraformer](https://www.nexusmods.com/subnautica/mods/2190?tab=files) (Also requires [this mod](https://github.com/repkins/subnautica-terraforming-mod/wiki/Mod-page))
 - [RGB Peepers](https://www.nexusmods.com/subnautica/mods/2178?tab=files)
+
+  > Fabulous peepers
+  
 - [Alien Riffle](https://www.nexusmods.com/subnautica/mods/141?tab=files)
+
+  > Allows you to craft the alien rifle found in the first precursor base
+  
 
 
