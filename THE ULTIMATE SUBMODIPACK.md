@@ -91,6 +91,9 @@ Those mods will greatly change your game experience, but as a result don't work 
 - [Auto Storage Transfer](https://www.nexusmods.com/subnautica/mods/1979?tab=files)
 - [Sonar Chip](https://www.nexusmods.com/subnautica/mods/1955)
 - [Burst Fins](https://www.nexusmods.com/subnautica/mods/1950?tab=files)
+- [Building Tweaks](https://www.nexusmods.com/subnautica/mods/1121?tab=files)
+    > Allows more freedom when placing base pieces, can solve some issues with deconstructing stuff
+  
 ## QOL and Difficulty
 
 - [More Sustenances](https://www.nexusmods.com/subnautica/mods/2016?tab=files)
